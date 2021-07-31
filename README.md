@@ -1,5 +1,5 @@
 # Template:
-[![anupshar](https://circleci.com/gh/anupshar/udacit-Proj4.svg??style=plastic&logo=appveyor)](https://app.circleci.com/pipelines/github/anupshar/ucacity-proj4)
+[![anupshar](https://circleci.com/gh/anupshar/udacit-Proj4.svg?style=shield)](https://app.circleci.com/pipelines/github/anupshar/ucacity-proj4)
 
 ## Project Overview
 
