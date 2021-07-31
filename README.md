@@ -41,3 +41,14 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### File Details
+
+1. app.py: Python script that invokes machine learning model to predict housing prices.
+2. dockerfile: Helps genrate container image of the application
+3. makefile: Python contruct that can hol set of frequently used commands like for env setup, installtion of dependencies, testing etc.
+4. requirements.txt: Dependencies that are required by application in the environment.
+5. run_docker.sh: Shell script containing commands for creating docker image build for application.
+6. run_keberentes.sh: Runs commands for application image deployment using kubernetes.
+7. upload_docker.sh: Runs commands to to upload docker image to docker hub repository.
+8. make predictions.sh: Runs curl command with input JSon for making price predictions with application.
