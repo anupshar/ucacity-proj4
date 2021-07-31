@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Template:
+[![anupshar](https://circleci.com/gh/anupshar/udacit-Proj4.svg?style=svg)](https://app.circleci.com/pipelines/github/anupshar/ucacity-proj4)
 
 ## Project Overview
 
